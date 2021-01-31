@@ -1,0 +1,16 @@
+title: Ciencia de datos en Python
+description: Clase
+template:
+  repo: ciencia-de-datos-en-python-template
+  name: ciencia-de-datos-en-python
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
