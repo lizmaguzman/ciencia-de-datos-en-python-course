@@ -1,0 +1,24 @@
+¿Qué es Anaconda?
+Es una suite de código abierto que cuenta con aplicaciones, librerías diseñadas para el desarrollo de ciencia de datos en los lenguajes de Python y R.
+Para poder instalar Anaconda se cuenta con Anaconda Distribution , para facilitar la instalación de los paquetes a los usuarios, utilizando el gestor de paquetes de conda . El cual es una automatización del proceso de actualización, instalación configuración y eliminación de paquetes.
+Anaconda Distribution se agrupa en cuatro sectores los cuales son:
+•	Anaconda Navigator.
+•	Anaconda Project.
+•	Librería de Ciencia de datos.
+•	Conda: Gestor de código de Anaconda Python.
+
+¿Qué es Git?
+Software que permite el control de versiones y registro del historial de cambios de un proyecto. Desarrollado por el fundador de Linux. Es una herramienta muy utilizada para el desarrollo del software.
+Una característica de Git es que no hay códigos sobrescritos ya que guarda varias copias del proyecto original.  
+
+¿Qué es Github?
+Git es el corazón de Github.
+Por cada proyecto se crea un nuevo repositorio, a partir del cual se empieza a dar seguimiento del mismo en el software.
+Dentro de las propiedades de Git, cuenta con versiones del software a la cuales le llama: ramas. La rama principal es llamada: master. Es la versión del proyecto que sale a producción.
+Cuando se necesitan crear copias del proyecto master, se crean nuevas ramas. Son versiones locales del proyecto, que no afectan a la versión original. En las cuales se trabajan los cambios necesarios y si y solo si hasta que se envíe una confirmación por parte del usuario que generó el cambio se actualiza en la rama master. Esto es por medio de un “commit”.
+ 
+Dentro de las características:
+•	Distribuido: Cada usuario tiene una copia idéntica el proyecto localmente.
+•	Ramas y fusiones, nuevas versiones y no afectan a la rama principal y se unen posteriormente.
+•	Integridad de datos, agrega un apartado de comprobación de las versiones de cada usuario
+•	Repositorio, proyecto seguido con Git.
